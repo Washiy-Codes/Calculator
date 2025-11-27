@@ -7,7 +7,7 @@ It performs basic arithmetic operations and demonstrates component-based design,
 
 ## 🔗 Live Demo
 You can view the live project here:  
-👉 **https://your-live-project-link.com**  
+👉 **https://washiy-codes.github.io/Calculator/**  
 
 ---
 
