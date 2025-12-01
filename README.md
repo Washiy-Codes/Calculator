@@ -7,8 +7,7 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 
 ## 🚀 Live Demo
 
-👉 **GitHub Pages:** _Add link here_  
-👉 **Vercel Deployment:** _Add link here_
+👉 **GitHub Pages:** https://washiy-codes.github.io/Calculator/ 
 
 ---
 
