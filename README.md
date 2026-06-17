@@ -1,4 +1,4 @@
-# 📟 JavaScript Calculator
+# JavaScript Calculator
 
 A clean, responsive, and interactive calculator built with **React**, **Vite**, **JavaScript**, **HTML**, and **CSS**.  
 This project is one of the required assignments for the **freeCodeCamp Frontend Libraries Certification**.
@@ -10,13 +10,13 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 **GitHub Pages:** https://washiy-codes.github.io/Calculator/ 
+ **GitHub Pages:** https://washiy-codes.github.io/Calculator/ 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **React** (UI logic & state management)  
 - **Vite** (build tool & dev server)  
@@ -26,7 +26,7 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 
 ---
 
-## ✨ Features
+## Features
 
 - Basic math operations: **add, subtract, multiply, divide**  
 - Supports decimal calculation  
