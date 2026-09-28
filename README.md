@@ -5,7 +5,6 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 
 ## Live Demo
 
- **GitHub Pages:** https://washiy-codes.github.io/Calculator/ 
 
 ---
 ## Tech Stack
