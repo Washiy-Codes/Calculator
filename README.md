@@ -9,13 +9,6 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 
 ---
 
-## Tech Stack
-
-- **React** (UI logic & state management)  
-- **Vite** (build tool & dev server)  
-- **JavaScript (ES6+)**  
-- **HTML5 & CSS3**  
-- **Modern React Hooks** (`useState`, `useEffect`)
 
 ---
 
