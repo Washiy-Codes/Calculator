@@ -1,3 +1,7 @@
+# JavaScript Calculator
+
+A clean, responsive, and interactive calculator built with **React**, **Vite**, **JavaScript**, **HTML**, and **CSS**.  
+This project is one of the required assignments for the **freeCodeCamp Frontend Libraries Certification**.
 
 ## Live Demo
  **GitHub Pages:** https://washiy-codes.github.io/Calculator/ 
