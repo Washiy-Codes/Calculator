@@ -4,7 +4,8 @@ A clean, responsive, and interactive calculator built with **React**, **Vite**, 
 This project is one of the required assignments for the **freeCodeCamp Frontend Libraries Certification**.
 
 
-
+## Live Demo
+ **GitHub Pages:** https://washiy-codes.github.io/Calculator/ 
 
 ---
 ## Tech Stack
