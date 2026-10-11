@@ -19,6 +19,14 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 
 ---
 
+## Features
 
+- Basic math operations: **add, subtract, multiply, divide**  
+- Supports decimal calculation  
+- Live expression preview  
+- Fully responsive UI (mobile-friendly)  
+- Keyboard support *(if implemented)*  
+- Clear (AC) and delete (DEL) controls  
+- Clean and intuitive interface  
 
 ---
