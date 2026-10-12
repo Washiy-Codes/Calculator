@@ -15,8 +15,8 @@ This project is one of the required assignments for the **freeCodeCamp Frontend 
 - **JavaScript (ES6+)**  
 - **HTML5 & CSS3**  
 - **Modern React Hooks** (`useState`, `useEffect`)
+  
 ## Features
-
 - Basic math operations: **add, subtract, multiply, divide**  
 - Supports decimal calculation  
 - Live expression preview  
